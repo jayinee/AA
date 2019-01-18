@@ -7,3 +7,5 @@ https://www.forbes.com/sites/gilpress/2018/12/09/120-ai-predictions-for-2019/#17
 
 QUESTIONS:
 https://codingcompiler.com/automation-anywhere-interview-questions/
+More Questions:
+http://rpainsights.blogspot.com/
